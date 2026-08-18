@@ -14,6 +14,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
  * Features (CGPA, IQ, Projects) → X
  
  * Target (Placement status) → y
+
 3.Split the dataset into training and testing sets.
 
 4.Train the Logistic Regression model using the training data.
